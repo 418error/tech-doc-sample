@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-This is revision 1
+This is revision 2
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
